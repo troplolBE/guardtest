@@ -1,3 +1,4 @@
 user: root
 password: toor
 url: https://test.com/
+token: fake_secret_sendgrid=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
